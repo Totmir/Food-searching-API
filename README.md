@@ -1,3 +1,5 @@
+The app can get the data from side API and search into it for the required elements.
+
 ## Available Scripts
 
 In the project directory, you can run:
